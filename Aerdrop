@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bangghali on github.
+  * I am bangghali (https://keybase.io/bangghali) on keybase.
+  * I have a public key ASCrpD3A5BVpM-30RfeIUYU2TzXFvqTQEphAXpJOprMJsQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aba43dc0e4156933edf445f7885185364f35c5bea4d01298405e924ea6b309b10a",
+      "host": "keybase.io",
+      "kid": "0120aba43dc0e4156933edf445f7885185364f35c5bea4d01298405e924ea6b309b10a",
+      "uid": "7168d77c4719574f36f15e4853a3b719",
+      "username": "bangghali"
+    },
+    "merkle_root": {
+      "ctime": 1568230201,
+      "hash": "4ca671205e075fc2f11b29ec75ae1acf11465bbd564d5e2f495bbb6cb99e21427b685e3ebd748d52cc2371191a7852e6ce3a9a0765fa64e43c6e2dc48eeaeddc",
+      "hash_meta": "665d251c3e52d74a22ff43242e8d0d28ddea6b099760cfd66902588f115caec4",
+      "seqno": 6798768
+    },
+    "service": {
+      "entropy": "xlNk0OUifMoX8a2m8/iSIEMv",
+      "name": "github",
+      "username": "bangghali"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568230213,
+  "expire_in": 504576000,
+  "prev": "3ce37a37397eb47bdd7ca022cb1b9c0d6e89a04b86d5571b8b732d1227369a7b",
+  "seqno": 21,
+  "tag": "signature"
+}
+```
+
+with the key [ASCrpD3A5BVpM-30RfeIUYU2TzXFvqTQEphAXpJOprMJsQo](https://keybase.io/bangghali), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgq6Q9wOQVaTPt9EX3iFGFNk81xb6k0BKYQF6STqazCbEKp3BheWxvYWTESpcCFcQgPON6Nzl+tHvdfKAiyxucDW6JoEuG1Vcbi3MtEic2mnvEIEjQswrO7R4C1CfrqRA1eTszy+p/Z5fQizfg6qTnVauCAgHCo3NpZ8RAbs5kPyzcLa/BoCJoLslEXFWXtw+PfMiFjW1jxrW28ZXGJlV8cRZqk4OEicfhqtMvBcrbHfsthgFSp6UKD764A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPoc01l4mdWWmsukjWyqayrK2vh+9t6mHxiu+QyMjUCio3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/bangghali
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id bangghali
+```
